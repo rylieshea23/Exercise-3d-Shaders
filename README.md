@@ -1,10 +1,7 @@
-# Exercise-3d-Shaders
-# Exercise-03d-Shaders
+# Exercise-3d-Shaders used as my final project 
 
-Exercise for MSCH-C220
-
-The final step adding "juicy" features to a simple brick-breaker game.
-
+##things added
+I made own music, added features to eyes, customized background, made animated first screen, Christmas themed add ons.
 
 ## Implementation
 
